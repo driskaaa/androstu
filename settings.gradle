@@ -1,0 +1,2 @@
+rootProject.name='uasfix'
+include ':app'
